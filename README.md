@@ -1,4 +1,5 @@
 📝 CRUD OPERATION APP
+
 This project is a clean and beginner-friendly CRUD (Create, Read, Update, Delete) interface built with React and styled using BlueprintJS. It connects to a public fake API to simulate real-world data interactions for learning or prototyping purposes.
 
 🔍 Key Features
